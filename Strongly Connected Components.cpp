@@ -61,7 +61,7 @@ namespace {
 			}
 
 			// replace the adjacency list
-			transposeList = transposeList;
+			adjacencyList = transposeList;
 		}
 
 	public:
